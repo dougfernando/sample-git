@@ -9,6 +9,7 @@ import java.util.Random;
 public class Main {
 
 	// Feature FF1
+	// Feature FF2
 	public static void main(String[] args) {
 		Random rnd = new Random(new Date().getTime());
 		List<Transaction> txs = new ArrayList<Transaction>();
